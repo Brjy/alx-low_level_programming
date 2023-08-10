@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
-* main starting point of program
+* main - starting point of program
 *
-* description  prints the statement 
+* Description:  prints the statement
 *
-*  return 0 alwaays
+*  Return: 0 alwaays
 */
 int main(void)
 {
