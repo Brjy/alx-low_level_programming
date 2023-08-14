@@ -6,12 +6,8 @@
 **/
 int main(void)
 {
-	int i[10]=
-
-	for (i = 0; i <= 9; i++)
-	{
-		putchar();
-	}
+	for (int i = 0; i <= 9; i++)
+		putchar('0' + i);
 	putchar('\n');
 	return (0);
 }
