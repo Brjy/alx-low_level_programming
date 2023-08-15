@@ -5,7 +5,7 @@
 * Description: this programm prints '_putchar'
 * Return: return 1 for letters and 0 for else
 **/
-int print_last_digit(int n);
+int print_last_digit(int n)
 {
 	int x = n % 10;
 
