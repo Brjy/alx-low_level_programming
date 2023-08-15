@@ -1,7 +1,6 @@
 #include "main.h"
 /**
-* main - entry point of programm
-* @print_alphabet: print lowercase letters
+* print_alphabet - print lowercase letters
 * Description: this programm prints '_putchar'
 * Return: always return 0
 **/
