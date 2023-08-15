@@ -6,6 +6,10 @@
 **/
 int main(void)
 {
-	_putchar("_putchar\n");
-	return (0);
+	char myput[] = "_putchar";
+	int x;
+
+	for (x = 0; x < 8; x++)
+		_putchar(myput[x]);
+	_putchar('\n');
 }
